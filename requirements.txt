@@ -1,0 +1,5 @@
+fastapi==0.119.1
+uvicorn==0.38.0
+maxapi==0.9.7
+httpx==0.28.1
+requests==2.32.5

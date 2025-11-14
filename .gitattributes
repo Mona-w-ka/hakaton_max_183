@@ -1,0 +1,2 @@
+*.gz filter=lfs diff=lfs merge=lfs -text
+max_bot.tar.gz filter=lfs diff=lfs merge=lfs -text
